@@ -7,8 +7,10 @@
 img{
     position: fixed;
     top: -30px;
+    width: 200px
 }
 
 .lol {
     height: 4000px;
+    background-color: cyan;
 }
