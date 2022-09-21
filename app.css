@@ -4,11 +4,12 @@
 }
 
 body{
-    background-color: red;
+    background-color: yellow;
 }
 
 img{
     position: fixed;
+    top: -40px;
 }
 
 div{
